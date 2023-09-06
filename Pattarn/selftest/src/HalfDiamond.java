@@ -1,8 +1,8 @@
 import java.util.Scanner;
-
 public class HalfDiamond {
     public static void main(String[] args)
     {
+        System.out.println("Enter your number :");
         Scanner input = new Scanner(System.in);
         int N = input.nextInt();
         for(int i = 1 ; i<=N;i++){

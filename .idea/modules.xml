@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pattarn/Bitwise/Array/Array.iml" filepath="$PROJECT_DIR$/Pattarn/Bitwise/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattarn/Bitwise/Bitwise.iml" filepath="$PROJECT_DIR$/Pattarn/Bitwise/Bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattarn/Pattarn.iml" filepath="$PROJECT_DIR$/Pattarn/Pattarn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if_else.iml" filepath="$PROJECT_DIR$/if_else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattarn/selftest/selftest.iml" filepath="$PROJECT_DIR$/Pattarn/selftest/selftest.iml" />
+    </modules>
+  </component>
+</project>
